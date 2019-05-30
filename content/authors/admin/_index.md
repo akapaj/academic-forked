@@ -62,9 +62,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. In short, my main interests lie in biomechanics. I use mixture of mathematical modelling and computational simulations to derive a physical understanding of biological systems. A fundamental aspect of this work is extensive interaction between “wet” and “dry” biologists.
+I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. In short, my main interests lie in biomechanics. I use mixture of mathematical modelling and computational simulations to derive a physical understanding of biological systems. A fundamental aspect of this work is extensive interaction between “wet” and “dry” biologists. Details on specific projects can be found below.

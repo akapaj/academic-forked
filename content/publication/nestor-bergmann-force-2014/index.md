@@ -1,7 +1,7 @@
 ---
 title: "Force and the spindle: Mechanical cues in mitotic spindle orientation"
 date: 2014-10-01
-publishDate: 2019-05-30T07:50:13.962394Z
+publishDate: 2019-05-30T08:09:50.076284Z
 authors: ["Alexander Nestor-Bergmann", "Georgina Goddard", "Sarah Woolner"]
 publication_types: ["2"]
 abstract: ""

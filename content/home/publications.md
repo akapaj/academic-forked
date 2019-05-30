@@ -67,5 +67,5 @@ subtitle = "Here are my last 5 articles"
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Find exactly what you are looking for by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

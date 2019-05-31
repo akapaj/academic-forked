@@ -1,6 +1,7 @@
 ---
 title: Publications
 
+# {{< relref "contact.md" >}}
 # View.
 #   1 = List
 #   2 = Compact
@@ -14,4 +15,4 @@ header:
   image: ""
 ---
 
-Feel free to <a href="#contact" title="contact me">contact me</a> with any questions.
+Feel free to [contact me]({{< ref "/contact/index.md" >}}) with any questions.

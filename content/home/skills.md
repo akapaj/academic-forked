@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "equals"
+  icon = "connectdevelop"
   icon_pack = "fab"
   name = "Mathematics"
   description = "100%"

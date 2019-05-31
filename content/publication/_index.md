@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Feel free to <a href="contact.md" title="contact me">contact me</a> with any questions.
+Feel free to <a href="#contact" title="contact me">contact me</a> with any questions.

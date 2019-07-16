@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Talks
+title: Selected Talks
+subtitle: Some selected talks with slides.
 
 # View.
 #   1 = List

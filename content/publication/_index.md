@@ -15,4 +15,4 @@ header:
   image: ""
 ---
 
-Feel free to [contact me]({{< ref "/contact/index.md" >}}) with any questions.
+Feel free to [contact me]({{< ref "/contact/index.md" >}}) with any questions. 

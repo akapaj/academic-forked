@@ -85,7 +85,7 @@ I was previously an academic, most recently a Research Fellow at the University 
 was in developing interpretable and mathematically robust biophysical models of developing tissues.
 
 I'm available for mathematical consulting in the areas of quantitative research, academia and data science. Please
-get in touch below if you'd like to discuss a project. 
+get in touch below if you'd like to discuss a project.
 
 
 [//]: # (I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My main interests lie in biomechanics. I use a mixture of mathematical modelling and computational simulations to derive a physical understanding of biological systems. A fundamental aspect of this work is extensive interaction between “wet” and “dry” biologists. Details on specific projects can be found below.)

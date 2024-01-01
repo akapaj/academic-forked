@@ -1,6 +1,6 @@
 ---
 title: Selected Talks
-subtitle: Some selected talks with slides.
+subtitle: Some selected talks with slides available.
 
 # View.
 #   1 = List

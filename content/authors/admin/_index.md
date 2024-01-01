@@ -10,20 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Mathematical Researcher
 
 # Organizations/Affiliations
 organizations:
+- name: Unsigned Research
+  url: "https://unsigned-research.com/"
 - name: University of Cambridge
   url: "https://www.cam.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My research interests lie in mathematical biology.
-
+#bio: I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My research interests lie in mathematical biology.
+bio: Alexander Nestor-Bergmann -- I am a mathematician and researcher.
+  
 interests:
 - Applied Mathematics
-- Developmental Biology
-- Mathematical Biology
+- Theory of Living Systems
+- Quantitative Research
 
 education:
   courses:
@@ -33,6 +36,15 @@ education:
   - course: Masters in Mathematics and Physics
     institution: University of Manchester
     year: 2013
+    
+#experience:
+#  positions:
+#  - position: Senior Research Scientist
+#    organization: Research Institute XYZ
+#    year: 2019 - Present
+#  - position: Junior Research Fellow
+#    organization: Another Institute
+#    year: 2017 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -67,4 +79,13 @@ email: ""
 # - Visitors
 ---
 
-I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My main interests lie in biomechanics. I use a mixture of mathematical modelling and computational simulations to derive a physical understanding of biological systems. A fundamental aspect of this work is extensive interaction between “wet” and “dry” biologists. Details on specific projects can be found below.
+I'm a mathematician, particularly interested in understanding non-equilibrium and living systems. My current focus is in 
+quantitative research and building Unsigned Research, a digital-asset management company. 
+I was previously an academic, most recently a Research Fellow at the University of Cambridge, where my primary research 
+was in developing interpretable and mathematically robust biophysical models of developing tissues.
+
+I'm available for mathematical consulting in the areas of quantitative research, academia and data science. Please
+get in touch below if you'd like to discuss a project.
+
+
+[//]: # (I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My main interests lie in biomechanics. I use a mixture of mathematical modelling and computational simulations to derive a physical understanding of biological systems. A fundamental aspect of this work is extensive interaction between “wet” and “dry” biologists. Details on specific projects can be found below.)

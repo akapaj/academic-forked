@@ -18,36 +18,48 @@ subtitle = ""
   icon = "connectdevelop"
   icon_pack = "fab"
   name = "Mathematics"
-  description = "100%"
+#  description = "100%"
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "100%"
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Physics"
+#  description = "80%"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "70%"  
+#  description = "70%"  
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+#  description = "60%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+#  description = "100%"
 
 [[feature]]
   icon = "flask"
   icon_pack = "fas"
   name = "Experiments"
-  description = "10%"  
+#  description = "10%"  
 
-[[feature]]
-  icon = "frog"
-  icon_pack = "fas"
-  name = "Xenopus"
-  description = "50%"
-
-[[feature]]
-  icon = "bug"
-  icon_pack = "fas"
-  name = "Drosophila"
-  description = "50%"
+#[[feature]]
+#  icon = "frog"
+#  icon_pack = "fas"
+#  name = "Xenopus"
+#  description = "50%"
+#
+#[[feature]]
+#  icon = "bug"
+#  icon_pack = "fas"
+#  name = "Drosophila"
+#  description = "50%"
 
 +++
